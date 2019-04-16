@@ -1,0 +1,565 @@
+{
+    "Users": [
+                 
+                 {
+                    "User" :
+                    {
+                        "username":"adam@gmail.com", 
+                        "password":"admin123",
+                        "email":"adam@gmail.com",
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/gilbert.jpeg",
+                                        "employer_zip":98033,
+                                        "employer_city":"Kirkland",
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68149, -122.20874"
+                        }
+                    }
+
+                },
+
+                { //Note: User object Starts here
+                    "User" :
+                    {
+                        "username":"scot@gmail.com",  //Note change this to something with gmail email (can be anything)
+                        "password":"admin123",
+                        "email":"scot@gmail.com",     //Note:This needs to be same as the above (Copy paste it here)       
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/gilbert.jpeg", //Choose an image from google and name it xxx.jpeg then use the same path here only change filename to xxx.jpeg/png whatever
+                                        "employer_zip":98033,                            //Choose zipcode and city from a list that i will give you
+                                        "employer_city":"Kirkland",                      //From the list  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68149, -122.20874",              //this will be in the file as well   
+                                        "Employee" :
+                                        {
+                                            "title":"Jack Woodsmith",
+                                            "employee_image":"images/populate/unknown.jpeg",  //Simply use the same image you used above
+                                            "employee_zip":98033,                             //Use the same Zipcode you used above
+                                            "employee_city":"Kirkland",                       //Use the same city  
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":2,                                        //Use any value from 1 to 5                  
+                                            "location":"47.68149, -122.20874",                //USe the same long lat
+                                            "skills" : [
+                                                "Woodworking",                               //Copy paste any five skills from the list     
+                                                "Hardwood Flooring",
+                                                "Wood Siding",
+                                                "Carpentry",
+                                                "Carpentry And Woodworking"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Hello , I am the best carpenter for your small needs", //Small intro about your skills. You are trying to sell your services with those skill sets
+                                                            "imageA":"images/populate/gilbert.jpeg", //Pictures from google related to those services    
+                                                            "imageB":"images/populate/gilbert.jpeg",
+                                                            "imageC":"images/populate/gilbert.jpeg",
+                                                            "imageD":"images/populate/gilbert.jpeg",
+                                                            "imageE":"images/populate/gilbert.jpeg"
+                                            }
+                                        }
+                        }
+                    }
+                 //Note : User Object Ends here   
+
+                },
+
+                { //3 Adam Miller
+                    "User" :
+                    {
+                        "username":"brainy.code@gmail.com",
+                        "password":"XYpretty1985",
+                        "email":"brainy.code@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/3-adam-miller.jpg",
+                                        "employer_zip":98052,
+                                        "employer_city":"Redmond",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68050,-122.12094",
+                                        "Employee" :
+                                        {
+                                            "title":"Adam Miller",
+                                            "employee_image":"images/populate/3-adam-miller.jpg",
+                                            "employee_zip":98052,
+                                            "employee_city":"Redmond", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":4,                  
+                                            "location":"47.68050,-122.12094",
+                                            "skills" : [
+                                                "Jewelry Repair",
+                                                "Jewelry Cleaning",
+                                                "Jewelry Appraisal",
+                                                "Engraving",    
+                                                "Knife Sharpening"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Hello, I'm a jeweler. I can make, repair and clean your accessories: watches, rings, chains, earrings and so on.",
+                                                            "imageA":"images/populate/jewelry-repair.jpg",
+                                                            "imageB":"images/populate/jewelry-cleaning.jpg",
+                                                            "imageC":"images/populate/jewelry-apraisal.jpg",   
+                                                            "imageD":"images/populate/engraving.jpg",
+                                                            "imageE":"images/populate/knife-sharpening.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //4 Bruce Dickens
+                    "User" :
+                    {
+                        "username":"d.bruce@gmail.com",
+                        "password":"Dfs3562234",
+                        "email":"d.bruce@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/4-bruce-dickens.jpg",
+                                        "employer_zip":98005,
+                                        "employer_city":"Bellevue",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.62007,-122.17309", 
+                                        "Employee" :
+                                        {
+                                            "title":"Bruce Dickens",
+                                            "employee_image":"images/populate/4-bruce-dickens.jpg",
+                                            "employee_zip":98005,
+                                            "employee_city":"Bellevue", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.62007,-122.17309",
+                                            "skills" : [
+                                                "Gunsmithing",
+                                                "Guitar Repair",
+                                                "Glass Blocks",
+                                                "Leather Repair",    
+                                                "Tool Repair"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Hi, everybody. I'm a Jack of all trades. You can contact me with questions about skin restoration, repair of sports weapons, repair of guitars. My hobby is the construction of glass blocks. You can see my gallery of works.",
+                                                            "imageA":"images/populate/gunsmithing.jpg",   
+                                                            "imageB":"images/populate/guitar-repair.jpg",
+                                                            "imageC":"images/populate/glass-block.jpg",
+                                                            "imageD":"images/populate/leather-repair-1.jpg",
+                                                            "imageE":"images/populate/tool-repair.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //5 John Smith & Co
+                    "User" :
+                    {
+                        "username":"smith74@gmail.com",
+                        "password":"abracadabra",
+                        "email":"smith74@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/5-john-smith.jpg",
+                                        "employer_zip":98006,
+                                        "employer_city":"Bellevue",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.55276,-122.15059",
+                                        "Employee" :
+                                        {
+                                            "title":"John Smith & Co",
+                                            "employee_image":"images/populate/5-john-smith.jpg",
+                                            "employee_zip":98006,
+                                            "employee_city":"Bellevue", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.55276,-122.15059",
+                                            "skills" : [
+                                                "Veterinary Services",
+                                                "Pet Transportation Services",
+                                                "Pet Sitting",
+                                                "Pet Grooming",    
+                                                "Pet Care"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "An experienced veterinarian offers pet treatment services. In our clinic we will take care of your pet.",
+                                                            "imageA":"images/populate/veterinary-services.jpeg",   
+                                                            "imageB":"images/populate/pets-transportations.jpg",
+                                                            "imageC":"images/populate/pet-sitting.jpg",
+                                                            "imageD":"images/populate/pet-grooming.jpg",
+                                                            "imageE":"images/populate/pet-care.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //6 Dillon White
+                    "User" :
+                    {
+                        "username":"dillon.white@gmail.com",
+                        "password":"white448520985",
+                        "email":"dillon.white@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/6-dillon-white.jpg",
+                                        "employer_zip":98335,
+                                        "employer_city":"Gig Harbor",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.29533,-122.62271",
+                                        "Employee" :
+                                        {
+                                            "title":"Dillon White",
+                                            "employee_image":"images/populate/6-dillon-white.jpg",
+                                            "employee_zip":98335,
+                                            "employee_city":"Gig Harbor", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.29533,-122.62271",
+                                            "skills" : [
+                                                "Gardening",
+                                                "Landscape Design",
+                                                "Lawn Mowing",
+                                                "Sodding",    
+                                                "Lawn Mower Repair"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "A team of experienced gardeners will perform any work on landscape design, lawn care, lawn mower repair.",
+                                                            "imageA":"images/populate/gardening-1.jpeg",   
+                                                            "imageB":"images/populate/landscaping-1.jpg",
+                                                            "imageC":"images/populate/lawn-mowing.jpg",
+                                                            "imageD":"images/populate/sodding.jpg",
+                                                            "imageE":"images/populate/lawn-mower-repair.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //7 Tom Hatfield
+                    "User" :
+                    {
+                        "username":"tommy.little@gmail.com",
+                        "password":"grad1414_sdk",
+                        "email":"tommy.little@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/7-tom-hatfield.jpg",
+                                        "employer_zip":98055,
+                                        "employer_city":"Renton",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.45108,-122.19632",
+                                        "Employee" :
+                                        {
+                                            "title":"Tom Hatfield",
+                                            "employee_image":"images/populate/7-tom-hatfield.jpg",
+                                            "employee_zip":98055,
+                                            "employee_city":"Renton", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":3,                  
+                                            "location":"47.45108,-122.19632",
+                                            "skills" : [
+                                                "Dog Walking",
+                                                "Dog Training",
+                                                "Dog Running Services",
+                                                "Dog Daycare",    
+                                                "Horse Care"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "The dog trainer with experience will train your dog, to teach to carry out commands. Pet care, sports activities. I will answer all your questions.",
+                                                            "imageA":"images/populate/dog-walking.jpg",   
+                                                            "imageB":"images/populate/dog-training.jpg",
+                                                            "imageC":"images/populate/dog-running.jpg",
+                                                            "imageD":"images/populate/dog-daycare.jpg",
+                                                            "imageE":"images/populate/horse-care.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //8 Jason Young
+                    "User" :
+                    {
+                        "username":"yoyojassy@gmail.com",
+                        "password":"asdfqwerty",
+                        "email":"yoyojassy@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/8-jason-young.jpg",
+                                        "employer_zip":98059,
+                                        "employer_city":"Renton",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.50413,-122.10966",
+                                        "Employee" :
+                                        {
+                                            "title":"Tom Hatfield",
+                                            "employee_image":"images/populate/8-jason-young.jpg",
+                                            "employee_zip":98059,
+                                            "employee_city":"Renton", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.50413,-122.10966",
+                                            "skills" : [
+                                                "Fertilizing",
+                                                "Tree Trimming",
+                                                "Tree And Shrub Service",
+                                                "Stump Grinding And Removal",    
+                                                "Wildlife Removal"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "The dog trainer with experience will train your dog, to teach to carry out commands. Pet care, sports activities. I will answer all your questions.",
+                                                            "imageA":"images/populate/fertilizing.jpg",   
+                                                            "imageB":"images/populate/tree-trimming.jpg",
+                                                            "imageC":"images/populate/tree-shrub.jpg",
+                                                            "imageD":"images/populate/stump-grinding.jpg",
+                                                            "imageE":"images/populate/wild-life-removal.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //9 Alex Martin
+                    "User" :
+                    {
+                        "username":"alex.martin16@gmail.com",
+                        "password":"19950316",
+                        "email":"alex.martin16@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/9-alex-martin.jpg",
+                                        "employer_zip":98406,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.26106,-122.51047",
+                                        "Employee" :
+                                        {
+                                            "title":"Alex Martin",
+                                            "employee_image":"images/populate/9-alex-martin.jpg",
+                                            "employee_zip":98406,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.26106,-122.51047",
+                                            "skills" : [
+                                                "Concrete Delivery",
+                                                "Concrete Removal",
+                                                "Concrete Sawing",
+                                                "Concrete Driveway Installation",    
+                                                "Concrete Services"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Any concrete work. Cheap",
+                                                            "imageA":"images/populate/concrete-delivery.jpg",   
+                                                            "imageB":"images/populate/concrete-removal.jpg",
+                                                            "imageC":"images/populate/concrete-sawing.jpg",
+                                                            "imageD":"images/populate/concrete-installation.jpg",
+                                                            "imageE":"images/populate/concrete-services.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //10 Tod Groover
+                    "User" :
+                    {
+                        "username":"grooo666@gmail.com",
+                        "password":"awsedrftgy444",
+                        "email":"grooo666@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/10-tod-groover.jpg",
+                                        "employer_zip":98412,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.25340,-122.44320",
+                                        "Employee" :
+                                        {
+                                            "title":"Tod Groover",
+                                            "employee_image":"images/populate/10-tod-groover.jpg",
+                                            "employee_zip":98412,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.25340,-122.44320",
+                                            "skills" : [
+                                                "Cabinetry",
+                                                "Carpentry",
+                                                "Carpentry And Woodworking",
+                                                "Door Repair",    
+                                                "Door Installation"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "My company produces high-end furniture. Artistic wood cutting, installation and repair of doors.",
+                                                            "imageA":"images/populate/cabinetry.jpg",   
+                                                            "imageB":"images/populate/carpentry.jpg",
+                                                            "imageC":"images/populate/carpentry-wood-working.jpg",
+                                                            "imageD":"images/populate/door-repair.jpg",
+                                                            "imageE":"images/populate/door-installation.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //11 Ethan Johnson
+                    "User" :
+                    {
+                        "username":"superdeal@gmail.com",
+                        "password":"coopers13",
+                        "email":"superdeal@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/11-ethan-johnson.jpg",
+                                        "employer_zip":98407,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.29391,-122.50750",
+                                        "Employee" :
+                                        {
+                                            "title":"Ethan Johnson",
+                                            "employee_image":"images/populate/11-ethan-johnson.jpg",
+                                            "employee_zip":98407,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.29391,-122.50750",
+                                            "skills" : [
+                                                "Electrical",
+                                                "Lamp Installation",
+                                                "Lamp Repair",
+                                                "Handyman",    
+                                                "Wiring"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Any concrete work. Cheap",
+                                                            "imageA":"images/populate/electrical.jpg",   
+                                                            "imageB":"images/populate/lamp-installation.jpg",
+                                                            "imageC":"images/populate/lamp-repair.jpg",
+                                                            "imageD":"images/populate/handyman.jpg",
+                                                            "imageE":"images/populate/wiring.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                {
+                    "User" :
+                    {
+                        "username":"joe@gmail.com",
+                        "password":"admin123",
+                        "email":"joe@gmail.com",
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/gilbert.jpeg",
+                                        "employer_zip":98052,
+                                        "employer_city":"Redmond",
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68050,-122.12094",
+                                        "Employee" :
+                                        {
+                                            "title":"Joe Landscaping",
+                                            "employee_image":"images/populate/unknown.jpeg",
+                                            "employee_zip":98052,
+                                            "employee_city":"Redmond",
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":0,
+                                            "location":"47.68050,-122.12094",
+                                            "skills" : [
+                                                "Landscape Design",
+                                                "Landscaping",
+                                                "Lawn Mower Repair",
+                                                "Lawn Mowing",
+                                                "Shrub Trimming"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Hello , I am the best landscaper for your small needs",
+                                                            "imageA":"",
+                                                            "imageB":"",
+                                                            "imageC":"",
+                                                            "imageD":"",
+                                                            "imageE":""
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                {
+                    "User" :
+                    {
+                        "username":"RussHarbor@gmail.com",
+                        "password":"admin123",
+                        "email":"RussHarbor@gmail.com",
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/gilbert.jpeg",
+                                        "employer_zip":98335,
+                                        "employer_city":"Gig Harbor",
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.29533,-122.62271",
+                                        "Employee" :
+                                        {
+                                            "title":"Gig Harbor Windows",
+                                            "employee_image":"images/populate/unknown.jpeg",
+                                            "employee_zip":98335,
+                                            "employee_city":"Gig Harbor",
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":0,
+                                            "location":"47.29533,-122.62271",
+                                            "skills" : [
+                                                "Window Cleaning",
+                                                "Window Installation",
+                                                "Window Screen Repair",
+                                                "Window Treatments"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Hello , I am the best landscaper for your small needs",
+                                                            "imageA":"",
+                                                            "imageB":"",
+                                                            "imageC":"",
+                                                            "imageD":"",
+                                                            "imageE":""
+                                            }
+                                        }
+                        }
+                    }
+
+                }
+        ]
+    }
