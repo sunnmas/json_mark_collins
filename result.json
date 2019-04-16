@@ -449,7 +449,7 @@
                                             "employee_city":"Tacoma", 
                                             "employee_country":"US",
                                             "employee_state":"WA",
-                                            "stars":5,                  
+                                            "stars":2,                  
                                             "location":"47.29391,-122.50750",
                                             "skills" : [
                                                 "Electrical",
@@ -460,12 +460,57 @@
                                             ],
                                             "portfolio" :
                                             {
-                                                            "introduction": "Any concrete work. Cheap",
+                                                            "introduction": "A team of professional electricians will perform work of any complexity from chandelier repair to installation of high-voltage power lines. Great work experience. Assembly of electrical panels, preparation of documentation.",
                                                             "imageA":"images/populate/electrical.jpg",   
                                                             "imageB":"images/populate/lamp-installation.jpg",
                                                             "imageC":"images/populate/lamp-repair.jpg",
                                                             "imageD":"images/populate/handyman.jpg",
                                                             "imageE":"images/populate/wiring.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //12 Christopher Robin
+                    "User" :
+                    {
+                        "username":"vinnipux@gmail.com",
+                        "password":"im_a_cloud_a_cloud_not_a_bear",
+                        "email":"vinnipux@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/12-christopher-robin.jpg",
+                                        "employer_zip":98052,
+                                        "employer_city":"Redmond",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68050,-122.12094",
+                                        "Employee" :
+                                        {
+                                            "title":"Christopher Robin",
+                                            "employee_image":"images/populate/12-christopher-robin.jpg",
+                                            "employee_zip":98052,
+                                            "employee_city":"Redmond", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":1,                  
+                                            "location":"47.68050,-122.12094",
+                                            "skills" : [
+                                                "Blacksmithing",
+                                                "Metal Fabrication",
+                                                "Metalwork",
+                                                "Welding",    
+                                                "Boilers And Radiators"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "We make any work with metal. Casting of metal into molds, repair of boilers, boilers, cook any products both manual and automatic welding. We make metal products, knives, swords, art objects.",
+                                                            "imageA":"images/populate/blacksmithing.jpg",   
+                                                            "imageB":"images/populate/metal-fabrication.jpg",
+                                                            "imageC":"images/populate/metal-work.jpg",
+                                                            "imageD":"images/populate/welding.jpg",
+                                                            "imageE":"images/populate/radiators.jpg"
                                             }
                                         }
                         }
