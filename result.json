@@ -787,6 +787,51 @@
                     }
                 },
 
+                { //19 Horatio Rodgers
+                    "User" :
+                    {
+                        "username":"ygommexa-7652@gmail.com",
+                        "password":"yz6TVRo4Fk",
+                        "email":"ygommexa-7652@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/19-horatio-rodgers.jpg",
+                                        "employer_zip":98335,
+                                        "employer_city":"Gig Harbor",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.29533,-122.62271",
+                                        "Employee" :
+                                        {
+                                            "title":"Horatio Rodgers",
+                                            "employee_image":"images/populate/19-horatio-rodgers.jpg",
+                                            "employee_zip":98335,
+                                            "employee_city":"Gig Harbor", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":3,                  
+                                            "location":"47.29533,-122.62271",
+                                            "skills" : [
+                                                "Saunas",
+                                                "Shower Door And Enclosure Installation",
+                                                "Shutters",
+                                                "Skylights",    
+                                                "Sound Proofing"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Perform a wide range of repairs of residential and non-residential premises. The main emphasis is on the repair of saunas, installation of doors.",
+                                                            "imageA":"images/populate/saunas.jpg",   
+                                                            "imageB":"images/populate/shower-door-and-enclosure-installation.jpg",
+                                                            "imageC":"images/populate/shutters.jpg",
+                                                            "imageD":"images/populate/skylights.jpg",
+                                                            "imageE":"images/populate/sound-proofing.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
                 { //
                     "User" :
                     {
