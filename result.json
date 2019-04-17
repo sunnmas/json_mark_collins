@@ -562,30 +562,120 @@
                     }
                 },
 
+                { //14 Garry Briggs
+                    "User" :
+                    {
+                        "username":"zekennurrellu-4536@gmail.com",
+                        "password":"YXGGYlrdCv",
+                        "email":"zekennurrellu-4536@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/14-garry-briggs.jpg",
+                                        "employer_zip":98407,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.29391,-122.50750",
+                                        "Employee" :
+                                        {
+                                            "title":"Garry Briggs",
+                                            "employee_image":"images/populate/14-garry-briggs.jpg",
+                                            "employee_zip":98407,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.29391,-122.50750",
+                                            "skills" : [
+                                                "Hot Tub And Spa Cleaning",
+                                                "Hot Tub And Spa Installation",
+                                                "Hot Tub And Spa Repair",
+                                                "Water Feature Repair",    
+                                                "Water Feature Installation"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Installation and repair of Spa, installation of auxiliary systems. With us it is easy and convenient!",
+                                                            "imageA":"images/populate/hot-tub-and-spa-cleaning.jpg",   
+                                                            "imageB":"images/populate/hot-tub-and-spa-installation.jpg",
+                                                            "imageC":"images/populate/hot-tub-and-spa-repair.jpg",
+                                                            "imageD":"images/populate/water-feature-repair.jpg",
+                                                            "imageE":"images/populate/water-feature-installation.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //15 Gabriel Carson
+                    "User" :
+                    {
+                        "username":"uverruniqo-0776@gmail.com",
+                        "password":"pa82Ct6hPj",
+                        "email":"uverruniqo-0776@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/15-gabriel-carson.jpg",
+                                        "employer_zip":98033,
+                                        "employer_city":"Kirkland",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68149,-122.20874    ",
+                                        "Employee" :
+                                        {
+                                            "title":"Gabriel Carson",
+                                            "employee_image":"images/populate/15-gabriel-carson.jpg",
+                                            "employee_zip":98033,
+                                            "employee_city":"Kirkland", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.68149,-122.20874 ",
+                                            "skills" : [
+                                                "Home Automation",
+                                                "Home Energy Auditing",
+                                                "Home Security And Alarms",
+                                                "Fire Extinguisher Inspection",    
+                                                "Electronics And Appliance Recycling"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "I want to introduce Our company Home-Umbrella. We are engaged in design, installation of various systems for home and office. We will help you to decide on the choice of the security alarm system, we carry out inspection control on fire safety.",
+                                                            "imageA":"images/populate/home-automation.jpg",   
+                                                            "imageB":"images/populate/home-energy-auditing.jpg",
+                                                            "imageC":"images/populate/home-security-and-alarms.jpg",
+                                                            "imageD":"images/populate/fire-extinguisher-inspection.jpg",
+                                                            "imageE":"images/populate/electronics-and-appliance-recycling.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
                 { //
                     "User" :
                     {
-                        "username":"XXXXX",
+                        "username":"EEEEE",
                         "password":"XXXXX",
-                        "email":"XXXXX",   
+                        "email":"EEEEE",   
                         "Employer" :
                         {
-                                        "employer_image":"XXXXX",
-                                        "employer_zip":XXXXX,
-                                        "employer_city":"XXXXX",  
+                                        "employer_image":"images/populate/DDDDD",
+                                        "employer_zip":ZZZZZ,
+                                        "employer_city":"CCCCC",  
                                         "employer_state":"WA",
                                         "employer_country":"US",
-                                        "location": "XXXXX",
+                                        "location": "LLLLL",
                                         "Employee" :
                                         {
-                                            "title":"",
-                                            "employee_image":"XXXXX",
-                                            "employee_zip":XXXXX,
-                                            "employee_city":"XXXXX", 
+                                            "title":"XXXXX",
+                                            "employee_image":"images/populate/DDDDD",
+                                            "employee_zip":ZZZZZ,
+                                            "employee_city":"CCCCC", 
                                             "employee_country":"US",
                                             "employee_state":"WA",
                                             "stars":XXXXX,                  
-                                            "location":"XXXXX",
+                                            "location":"LLLLL",
                                             "skills" : [
                                                 "XXXXX",
                                                 "XXXXX",
