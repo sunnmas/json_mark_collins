@@ -517,6 +517,52 @@
                     }
                 },
 
+                { //13 Lee Newman
+                    "User" :
+                    {
+                        "username":"lee-14385@gmail.com",
+                        "password":"vinsdor010475",
+                        "email":"lee-14385@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/13-lee-newman.jpg",
+                                        "employer_zip":98006,
+                                        "employer_city":"Bellevue",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.55276,-122.15059",
+                                        "Employee" :
+                                        {
+                                            "title":"Lee Newman",
+                                            "employee_image":"images/populate/13-lee-newman.jpg",
+                                            "employee_zip":98006,
+                                            "employee_city":"Bellevue", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":4,                  
+                                            "location":"47.55276,-122.15059",
+                                            "skills" : [
+                                                "Odor Removal",
+                                                "Paint Removal",
+                                                "Drywall",
+                                                "Dry Cleaning",    
+                                                "Rug Cleaning"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "We make any work with metal. Casting of metal into molds, repair of boilers, boilers, cook any products both manual and automatic welding. We make metal products, knives, swords, art objects.",
+                                                            "imageA":"images/populate/odor-removing.jpg",   
+                                                            "imageB":"images/populate/paint-removal.jpg",
+                                                            "imageC":"images/populate/drywall.jpg",
+                                                            "imageD":"images/populate/dry-cleaning.jpg",
+                                                            "imageE":"images/populate/rug-cleaning.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+
                 {
                     "User" :
                     {
