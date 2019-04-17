@@ -20,32 +20,32 @@
 
                 },
 
-                { //Note: User object Starts here
+                {
                     "User" :
                     {
-                        "username":"scot@gmail.com",  //Note change this to something with gmail email (can be anything)
+                        "username":"scot@gmail.com",
                         "password":"admin123",
-                        "email":"scot@gmail.com",     //Note:This needs to be same as the above (Copy paste it here)       
+                        "email":"scot@gmail.com",      
                         "Employer" :
                         {
-                                        "employer_image":"images/populate/gilbert.jpeg", //Choose an image from google and name it xxx.jpeg then use the same path here only change filename to xxx.jpeg/png whatever
-                                        "employer_zip":98033,                            //Choose zipcode and city from a list that i will give you
-                                        "employer_city":"Kirkland",                      //From the list  
+                                        "employer_image":"images/populate/gilbert.jpeg",
+                                        "employer_zip":98033,
+                                        "employer_city":"Kirkland",
                                         "employer_state":"WA",
                                         "employer_country":"US",
-                                        "location": "47.68149, -122.20874",              //this will be in the file as well   
+                                        "location": "47.68149, -122.20874",
                                         "Employee" :
                                         {
                                             "title":"Jack Woodsmith",
-                                            "employee_image":"images/populate/unknown.jpeg",  //Simply use the same image you used above
-                                            "employee_zip":98033,                             //Use the same Zipcode you used above
-                                            "employee_city":"Kirkland",                       //Use the same city  
+                                            "employee_image":"images/populate/unknown.jpeg",
+                                            "employee_zip":98033,
+                                            "employee_city":"Kirkland",
                                             "employee_country":"US",
                                             "employee_state":"WA",
-                                            "stars":2,                                        //Use any value from 1 to 5                  
-                                            "location":"47.68149, -122.20874",                //USe the same long lat
+                                            "stars":2,
+                                            "location":"47.68149, -122.20874",
                                             "skills" : [
-                                                "Woodworking",                               //Copy paste any five skills from the list     
+                                                "Woodworking",   
                                                 "Hardwood Flooring",
                                                 "Wood Siding",
                                                 "Carpentry",
@@ -53,8 +53,8 @@
                                             ],
                                             "portfolio" :
                                             {
-                                                            "introduction": "Hello , I am the best carpenter for your small needs", //Small intro about your skills. You are trying to sell your services with those skill sets
-                                                            "imageA":"images/populate/gilbert.jpeg", //Pictures from google related to those services    
+                                                            "introduction": "Hello , I am the best carpenter for your small needs",
+                                                            "imageA":"images/populate/gilbert.jpeg",   
                                                             "imageB":"images/populate/gilbert.jpeg",
                                                             "imageC":"images/populate/gilbert.jpeg",
                                                             "imageD":"images/populate/gilbert.jpeg",
@@ -63,11 +63,9 @@
                                         }
                         }
                     }
-                 //Note : User Object Ends here   
-
                 },
 
-                { //3 Adam Miller
+                {
                     "User" :
                     {
                         "username":"brainy.code@gmail.com",
@@ -112,7 +110,7 @@
                     }
                 },
 
-                { //4 Bruce Dickens
+                {
                     "User" :
                     {
                         "username":"d.bruce@gmail.com",
@@ -157,7 +155,7 @@
                     }
                 },
 
-                { //5 John Smith & Co
+                {
                     "User" :
                     {
                         "username":"smith74@gmail.com",
@@ -202,7 +200,7 @@
                     }
                 },
 
-                { //6 Dillon White
+                {
                     "User" :
                     {
                         "username":"dillon.white@gmail.com",
@@ -247,7 +245,7 @@
                     }
                 },
 
-                { //7 Tom Hatfield
+                {
                     "User" :
                     {
                         "username":"tommy.little@gmail.com",
@@ -292,7 +290,7 @@
                     }
                 },
 
-                { //8 Jason Young
+                {
                     "User" :
                     {
                         "username":"yoyojassy@gmail.com",
@@ -337,7 +335,7 @@
                     }
                 },
 
-                { //9 Alex Martin
+                {
                     "User" :
                     {
                         "username":"alex.martin16@gmail.com",
@@ -382,7 +380,7 @@
                     }
                 },
 
-                { //10 Tod Groover
+                {
                     "User" :
                     {
                         "username":"grooo666@gmail.com",
@@ -427,7 +425,7 @@
                     }
                 },
 
-                { //11 Ethan Johnson
+                {
                     "User" :
                     {
                         "username":"superdeal@gmail.com",
@@ -472,7 +470,7 @@
                     }
                 },
 
-                { //12 Christopher Robin
+                {
                     "User" :
                     {
                         "username":"vinnipux@gmail.com",
@@ -517,7 +515,7 @@
                     }
                 },
 
-                { //13 Lee Newman
+                {
                     "User" :
                     {
                         "username":"lee-14385@gmail.com",
@@ -562,7 +560,7 @@
                     }
                 },
 
-                { //14 Garry Briggs
+                {
                     "User" :
                     {
                         "username":"zekennurrellu-4536@gmail.com",
@@ -607,7 +605,7 @@
                     }
                 },
 
-                { //15 Gabriel Carson
+                {
                     "User" :
                     {
                         "username":"uverruniqo-0776@gmail.com",
@@ -652,7 +650,7 @@
                     }
                 },
 
-                { //16 Dominic Johnson
+                {
                     "User" :
                     {
                         "username":"peseqedda-6252@gmail.com",
@@ -674,7 +672,7 @@
                                             "employee_city":"Redmond", 
                                             "employee_country":"US",
                                             "employee_state":"WA",
-                                            "stars":    5,                  
+                                            "stars":5,                  
                                             "location":"47.68050,-122.12094",
                                             "skills" : [
                                                 "Fan Installation",
@@ -697,7 +695,7 @@
                     }
                 },
 
-                { //17 Horace Harrison
+                {
                     "User" :
                     {
                         "username":"enninneqybo-3148@gmail.com",
@@ -742,7 +740,7 @@
                     }
                 },
 
-                { //18 Giles Joseph
+                {
                     "User" :
                     {
                         "username":"cuhavelo-5249@gmail.com",
@@ -787,7 +785,7 @@
                     }
                 },
 
-                { //19 Horatio Rodgers
+                {
                     "User" :
                     {
                         "username":"ygommexa-7652@gmail.com",
@@ -832,7 +830,7 @@
                     }
                 },
 
-                { //20 William Sutton
+                {
                     "User" :
                     {
                         "username":"noffewoce-3050@gmail.com",
@@ -877,7 +875,7 @@
                     }
                 },
 
-                { //21 Timothy Jacobs
+                {
                     "User" :
                     {
                         "username":"unizavije-4662@gmail.com",
@@ -922,7 +920,7 @@
                     }
                 },
 
-                { //22 Joshua McKenzie
+                {
                     "User" :
                     {
                         "username":"gevotedden-0164@gmail.com",
@@ -967,7 +965,7 @@
                     }
                 },
 
-                { //23 Michael Harvey
+                {
                     "User" :
                     {
                         "username":"yffemezetta-8794@gmail.com",
@@ -1012,7 +1010,7 @@
                     }
                 },
 
-                { //24 Gerald McGee
+                {
                     "User" :
                     {
                         "username":"zyqeppottupp-4819@gmail.com",
@@ -1057,7 +1055,7 @@
                     }
                 },
 
-                { //25 Robert Lucas
+                {
                     "User" :
                     {
                         "username":"izellemmatt-5311@gmail.com",
@@ -1102,7 +1100,7 @@
                     }
                 },
 
-                { //26 Donald May
+                {
                     "User" :
                     {
                         "username":"ryttonnofa-4371@gmail.com",
@@ -1147,7 +1145,7 @@
                     }
                 },
 
-                { //27 Charles Baldwin
+                {
                     "User" :
                     {
                         "username":"ezowogej-3039@gmail.com",
@@ -1192,7 +1190,7 @@
                     }
                 },
 
-                { //28 Brian Phillips
+                {
                     "User" :
                     {
                         "username":"gimuludda-8734@gmail.com",
@@ -1237,7 +1235,7 @@
                     }
                 },
 
-                { //29 Mark Jordan
+                {
                     "User" :
                     {
                         "username":"attorodammy-9684@gmail.com",
@@ -1282,7 +1280,7 @@
                     }
                 },
 
-                { //30 Jack Blair
+                {
                     "User" :
                     {
                         "username":"aqemmabett-1717@gmail.com",
@@ -1327,7 +1325,7 @@
                     }
                 },
 
-                { //31 Francis Walsh
+                {
                     "User" :
                     {
                         "username":"zeppelakyl-8571@gmail.com",
@@ -1372,50 +1370,96 @@
                     }
                 },
 
-                { //
+                {
                     "User" :
                     {
-                        "username":"EEEEE",
-                        "password":"XXXXX",
-                        "email":"EEEEE",   
+                        "username":"zippo-nippo@gmail.com",
+                        "password":"nljLKJL900",
+                        "email":"zippo-nippo@gmail.com",   
                         "Employer" :
                         {
-                                        "employer_image":"images/populate/DDDDD",
-                                        "employer_zip":ZZZZZ,
-                                        "employer_city":"CCCCC",  
+                                        "employer_image":"images/populate/32-shannon-barnett.jpg",
+                                        "employer_zip":98406,
+                                        "employer_city":"Tacoma",  
                                         "employer_state":"WA",
                                         "employer_country":"US",
-                                        "location": "LLLLL",
+                                        "location": "47.26106,-122.51047",
                                         "Employee" :
                                         {
-                                            "title":"XXXXX",
-                                            "employee_image":"images/populate/DDDDD",
-                                            "employee_zip":ZZZZZ,
-                                            "employee_city":"CCCCC", 
+                                            "title":"Shannon Barnett",
+                                            "employee_image":"images/populate/32-shannon-barnett.jpg",
+                                            "employee_zip":98406,
+                                            "employee_city":"Tacoma", 
                                             "employee_country":"US",
                                             "employee_state":"WA",
-                                            "stars":XXXXX,                  
-                                            "location":"LLLLL",
+                                            "stars":5,                  
+                                            "location":"47.26106,-122.51047",
                                             "skills" : [
-                                                "XXXXX",
-                                                "XXXXX",
-                                                "XXXXX",
-                                                "XXXXX",    
-                                                "XXXXX"
+                                                "Swimming Pool Cleaning",
+                                                "Swimming Pool Installation",
+                                                "Water Feature Installation",
+                                                "Water Feature Repair",    
+                                                "Wells"
                                             ],
                                             "portfolio" :
                                             {
-                                                            "introduction": "XXXXX",
-                                                            "imageA":"images/populate/XXXXX",   
-                                                            "imageB":"images/populate/XXXXX",
-                                                            "imageC":"images/populate/XXXXX",
-                                                            "imageD":"images/populate/XXXXX",
-                                                            "imageE":"images/populate/XXXXX"
+                                                            "introduction": "If you need to install a swimming pool or repair water utilities, as well as dig a well? We are happy to help You solve problems. We have extensive experience in this field. Low prices and good specialists will try for you.",
+                                                            "imageA":"images/populate/swimming-pool-cleaning.jpg",   
+                                                            "imageB":"images/populate/swimming-pool-installation.jpg",
+                                                            "imageC":"images/populate/water-feature-installation.jpg",
+                                                            "imageD":"images/populate/water-feature-repair.jpg",
+                                                            "imageE":"images/populate/wells.jpg"
                                             }
                                         }
                         }
                     }
                 },
+
+                {
+                    "User" :
+                    {
+                        "username":"dagyqenoki-2369@gmail.com",
+                        "password":"FYtGr5twQN",
+                        "email":"dagyqenoki-2369@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/33-matthew-manning.jpg",
+                                        "employer_zip":98412,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.25340,-122.44320",
+                                        "Employee" :
+                                        {
+                                            "title":"Matthew Manning",
+                                            "employee_image":"images/populate/33-matthew-manning.jpg",
+                                            "employee_zip":98412,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":2,                  
+                                            "location":"47.25340,-122.44320",
+                                            "skills" : [
+                                                "Switches And Outlets",
+                                                "Fixtures",
+                                                "Generator Installation",
+                                                "Outdoor Lighting",    
+                                                "Solar Panel Repair"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "The electrician will perform repair work to replace switches, lighting, motion sensors, solar panels. Replace the lighting in the garden, gazebo, garage. I have extensive experience in installing voltage generators to power home appliances.",
+                                                            "imageA":"images/populate/switches-and-outlets.jpg",   
+                                                            "imageB":"images/populate/fixtures.jpg",
+                                                            "imageC":"images/populate/generator-installation.jpg",
+                                                            "imageD":"images/populate/outdoor-lighting.jpg",
+                                                            "imageE":"images/populate/solar-panel-repair.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
 
                 {
                     "User" :
