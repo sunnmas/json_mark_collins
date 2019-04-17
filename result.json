@@ -832,6 +832,51 @@
                     }
                 },
 
+                { //20 William Sutton
+                    "User" :
+                    {
+                        "username":"noffewoce-3050@gmail.com",
+                        "password":"iT92YtS81l",
+                        "email":"noffewoce-3050@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/20-william-sutton.jpg",
+                                        "employer_zip":98055,
+                                        "employer_city":"Renton",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.45108,-122.19632",
+                                        "Employee" :
+                                        {
+                                            "title":"William Sutton",
+                                            "employee_image":"images/populate/20-william-sutton.jpg",
+                                            "employee_zip":98055,
+                                            "employee_city":"Renton", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.45108,-122.19632",
+                                            "skills" : [
+                                                "Tv Mounting",
+                                                "Tv Repair Services ",
+                                                "Vacuum Cleaner Repair",
+                                                "Air Conditioning Repair",    
+                                                "Satellite Dish Services"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "A professional in his field will perform the installation of air conditioning systems, televisions and satellite systems.",
+                                                            "imageA":"images/populate/tv-mounting.jpg",   
+                                                            "imageB":"images/populate/tv-repair-services.jpg",
+                                                            "imageC":"images/populate/vacuum-cleaner-repair.jpg",
+                                                            "imageD":"images/populate/air-conditioning-repair.jpg",
+                                                            "imageE":"images/populate/satellite-dish-services.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
                 { //
                     "User" :
                     {
