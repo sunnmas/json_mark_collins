@@ -967,45 +967,137 @@
                     }
                 },
 
-                { //
+                { //23 Michael Harvey
                     "User" :
                     {
-                        "username":"EEEEE",
-                        "password":"XXXXX",
-                        "email":"EEEEE",   
+                        "username":"yffemezetta-8794@gmail.com",
+                        "password":"IkEs4x2axk",
+                        "email":"yffemezetta-8794@gmail.com",   
                         "Employer" :
                         {
-                                        "employer_image":"images/populate/DDDDD",
-                                        "employer_zip":ZZZZZ,
-                                        "employer_city":"CCCCC",  
+                                        "employer_image":"images/populate/23-michael-harvey.jpg",
+                                        "employer_zip":98412,
+                                        "employer_city":"Tacoma",  
                                         "employer_state":"WA",
                                         "employer_country":"US",
-                                        "location": "LLLLL",
+                                        "location": "47.25340,-122.44320",
                                         "Employee" :
                                         {
-                                            "title":"XXXXX",
-                                            "employee_image":"images/populate/DDDDD",
-                                            "employee_zip":ZZZZZ,
-                                            "employee_city":"CCCCC", 
+                                            "title":"Michael Harvey",
+                                            "employee_image":"images/populate/23-michael-harvey.jpg",
+                                            "employee_zip":98412,
+                                            "employee_city":"Tacoma", 
                                             "employee_country":"US",
                                             "employee_state":"WA",
-                                            "stars":XXXXX,                  
-                                            "location":"LLLLL",
+                                            "stars":3,                  
+                                            "location":"47.25340,-122.44320",
                                             "skills" : [
-                                                "XXXXX",
-                                                "XXXXX",
-                                                "XXXXX",
-                                                "XXXXX",    
-                                                "XXXXX"
+                                                "Roof Cleaning",
+                                                "Roof Installation Or Replacement",
+                                                "Roof Repair",
+                                                "Chimney Cleaning",    
+                                                "Chimney Inspection"
                                             ],
                                             "portfolio" :
                                             {
-                                                            "introduction": "XXXXX",
-                                                            "imageA":"images/populate/XXXXX",   
-                                                            "imageB":"images/populate/XXXXX",
-                                                            "imageC":"images/populate/XXXXX",
-                                                            "imageD":"images/populate/XXXXX",
-                                                            "imageE":"images/populate/XXXXX"
+                                                            "introduction": "The team of roofers will perform works on installation of rafter system, replacement of roofing material, dismantling of old structures. Also we are engaged in mountaineering works: cleaning of a roof of snow and icicles, cleaning of flues.",
+                                                            "imageA":"images/populate/roof-cleaning.jpg",   
+                                                            "imageB":"images/populate/roof-installation-or-replacement.jpg",
+                                                            "imageC":"images/populate/roof-repair.jpg",
+                                                            "imageD":"images/populate/chimney-cleaning.jpg",
+                                                            "imageE":"images/populate/chimney-inspection.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //24 Gerald McGee
+                    "User" :
+                    {
+                        "username":"zyqeppottupp-4819@gmail.com",
+                        "password":"2XZ9JR98G1",
+                        "email":"zyqeppottupp-4819@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/24-gerald-mcgee.jpg",
+                                        "employer_zip":98407,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.29391,-122.50750",
+                                        "Employee" :
+                                        {
+                                            "title":"Gerald McGee",
+                                            "employee_image":"images/populate/24-gerald-mcgee.jpg",
+                                            "employee_zip":98407,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":4,                  
+                                            "location":"47.29391,-122.50750",
+                                            "skills" : [
+                                                "Generator Repair",
+                                                "Microwave Oven Services",
+                                                "Fan Repair",
+                                                "Refrigerator Repair",    
+                                                "Washing Machine Repair"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Orion service center will repair consumer electronics. We provide warranty and post-warranty repair of many brands of electronics and household appliances.",
+                                                            "imageA":"images/populate/generator-repair.jpg",   
+                                                            "imageB":"images/populate/microwave-oven-services.jpg",
+                                                            "imageC":"images/populate/fan-repair.jpg",
+                                                            "imageD":"images/populate/refrigerator-repair.jpg",
+                                                            "imageE":"images/populate/washing-machine-repair.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+
+
+                { //25 Robert Lucas
+                    "User" :
+                    {
+                        "username":"izellemmatt-5311@gmail.com",
+                        "password":"9Fu9Fnkuwt",
+                        "email":"izellemmatt-5311@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/25-robert-lucas.jpg",
+                                        "employer_zip":98033,
+                                        "employer_city":"Kirkland",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68149,-122.20874",
+                                        "Employee" :
+                                        {
+                                            "title":"Robert Lucas",
+                                            "employee_image":"images/populate/25-robert-lucas.jpg",
+                                            "employee_zip":98033,
+                                            "employee_city":"Kirkland", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":5,                  
+                                            "location":"47.68149,-122.20874",
+                                            "skills" : [
+                                                "Asphalt Services",
+                                                "Backhoe Services",
+                                                "Heavy Machinery Rental",
+                                                "Land Surveying",    
+                                                "General Contracting"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Rent a dump truck, concrete mixer or excavator? It's easy! With us you can always do it. Round the clock work without weekends and holidays, affordable prices. All for You.",
+                                                            "imageA":"images/populate/asphalt-services.jpg",   
+                                                            "imageB":"images/populate/backhoe-services.jpg",
+                                                            "imageC":"images/populate/heavy-machinery-rental.jpg",
+                                                            "imageD":"images/populate/land-surveying.jpg",
+                                                            "imageE":"images/populate/general-contracting.jpg"
                                             }
                                         }
                         }
