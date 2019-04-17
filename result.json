@@ -550,12 +550,57 @@
                                             ],
                                             "portfolio" :
                                             {
-                                                            "introduction": "We make any work with metal. Casting of metal into molds, repair of boilers, boilers, cook any products both manual and automatic welding. We make metal products, knives, swords, art objects.",
+                                                            "introduction": "My cleaning company is engaged in a wide range of cleaning works from cleaning the premises, clothes from odors to washing the walls and cleaning them from paint. All the great mercy.",
                                                             "imageA":"images/populate/odor-removing.jpg",   
                                                             "imageB":"images/populate/paint-removal.jpg",
                                                             "imageC":"images/populate/drywall.jpg",
                                                             "imageD":"images/populate/dry-cleaning.jpg",
                                                             "imageE":"images/populate/rug-cleaning.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //
+                    "User" :
+                    {
+                        "username":"XXXXX",
+                        "password":"XXXXX",
+                        "email":"XXXXX",   
+                        "Employer" :
+                        {
+                                        "employer_image":"XXXXX",
+                                        "employer_zip":XXXXX,
+                                        "employer_city":"XXXXX",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "XXXXX",
+                                        "Employee" :
+                                        {
+                                            "title":"",
+                                            "employee_image":"XXXXX",
+                                            "employee_zip":XXXXX,
+                                            "employee_city":"XXXXX", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":XXXXX,                  
+                                            "location":"XXXXX",
+                                            "skills" : [
+                                                "XXXXX",
+                                                "XXXXX",
+                                                "XXXXX",
+                                                "XXXXX",    
+                                                "XXXXX"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "XXXXX",
+                                                            "imageA":"images/populate/XXXXX",   
+                                                            "imageB":"images/populate/XXXXX",
+                                                            "imageC":"images/populate/XXXXX",
+                                                            "imageD":"images/populate/XXXXX",
+                                                            "imageE":"images/populate/XXXXX"
                                             }
                                         }
                         }
