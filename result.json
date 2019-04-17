@@ -913,9 +913,54 @@
                                                             "introduction": "A team of experienced craftsmen quickly and efficiently install a washing machine or refrigerator. Call us today and we will give you a 30% discount.",
                                                             "imageA":"images/populate/washing-machine-installation.jpg",   
                                                             "imageB":"images/populate/refrigerator-installation.jpg",
-                                                            "imageC":"images/populate/lighting-installation.jpg",
+                                                            "imageC":"images/populate/lighting-installation.jpeg",
                                                             "imageD":"images/populate/heating-and-furnace-installation.jpg",
                                                             "imageE":"images/populate/solar-panel-installation.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //22 Joshua McKenzie
+                    "User" :
+                    {
+                        "username":"gevotedden-0164@gmail.com",
+                        "password":"pxKkbCxAda",
+                        "email":"gevotedden-0164@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/22-joshua-mckenzie.jpg",
+                                        "employer_zip":98406,
+                                        "employer_city":"Tacoma",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.26106,-122.51047",
+                                        "Employee" :
+                                        {
+                                            "title":"Joshua McKenzie",
+                                            "employee_image":"images/populate/22-joshua-mckenzie.jpg",
+                                            "employee_zip":98406,
+                                            "employee_city":"Tacoma", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":4,                  
+                                            "location":"47.26106,-122.51047",
+                                            "skills" : [
+                                                "Gutter Cleaning",
+                                                "Gutter Installation",
+                                                "Gutter Repair",
+                                                "Tiling",    
+                                                "Window Installation"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Large selection of plastic and wooden Windows, tiles and gutters. When you buy a window from us, You get its installation for free.",
+                                                            "imageA":"images/populate/gutter-cleaning.jpg",   
+                                                            "imageB":"images/populate/gutter-installation.jpg",
+                                                            "imageC":"images/populate/gutter-repair.jpg",
+                                                            "imageD":"images/populate/tiling.jpg",
+                                                            "imageE":"images/populate/window-installation.jpg"
                                             }
                                         }
                         }
