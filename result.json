@@ -620,7 +620,7 @@
                                         "employer_city":"Kirkland",  
                                         "employer_state":"WA",
                                         "employer_country":"US",
-                                        "location": "47.68149,-122.20874    ",
+                                        "location": "47.68149,-122.20874",
                                         "Employee" :
                                         {
                                             "title":"Gabriel Carson",
@@ -630,7 +630,7 @@
                                             "employee_country":"US",
                                             "employee_state":"WA",
                                             "stars":5,                  
-                                            "location":"47.68149,-122.20874 ",
+                                            "location":"47.68149,-122.20874",
                                             "skills" : [
                                                 "Home Automation",
                                                 "Home Energy Auditing",
@@ -646,6 +646,96 @@
                                                             "imageC":"images/populate/home-security-and-alarms.jpg",
                                                             "imageD":"images/populate/fire-extinguisher-inspection.jpg",
                                                             "imageE":"images/populate/electronics-and-appliance-recycling.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //16 Dominic Johnson
+                    "User" :
+                    {
+                        "username":"peseqedda-6252@gmail.com",
+                        "password":"tQ8JbqAyY3",
+                        "email":"peseqedda-6252@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/16-dominic-johnson.jpg",
+                                        "employer_zip":98052,
+                                        "employer_city":"Redmond",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.68050,-122.12094",
+                                        "Employee" :
+                                        {
+                                            "title":"Dominic Johnson",
+                                            "employee_image":"images/populate/16-dominic-johnson.jpg",
+                                            "employee_zip":98052,
+                                            "employee_city":"Redmond", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":    5,                  
+                                            "location":"47.68050,-122.12094",
+                                            "skills" : [
+                                                "Fan Installation",
+                                                "Ceiling Fan",
+                                                "Ducts And Vents",
+                                                "Thermal Imaging Inspection",    
+                                                "Air Conditioning And Cooling"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Our company is engaged in ventilation systems. Our experts in the shortest possible time will mount for you air ducts, fans and split systems. Turning to us You will become our regular customer.",
+                                                            "imageA":"images/populate/fan-installation.jpg",   
+                                                            "imageB":"images/populate/ceiling-fan.jpg",
+                                                            "imageC":"images/populate/ducts-and-vents.jpg",
+                                                            "imageD":"images/populate/thermal-imaging-inspection.jpg",
+                                                            "imageE":"images/populate/air-conditioning-and-cooling.jpg"
+                                            }
+                                        }
+                        }
+                    }
+                },
+
+                { //17 Horace Harrison
+                    "User" :
+                    {
+                        "username":"enninneqybo-3148@gmail.com",
+                        "password":"cWqpwAlfFZ",
+                        "email":"enninneqybo-3148@gmail.com",   
+                        "Employer" :
+                        {
+                                        "employer_image":"images/populate/17-horace-harrison.jpg",
+                                        "employer_zip":98005,
+                                        "employer_city":"Bellevue",  
+                                        "employer_state":"WA",
+                                        "employer_country":"US",
+                                        "location": "47.62007,-122.17309",
+                                        "Employee" :
+                                        {
+                                            "title":"Horace Harrison",
+                                            "employee_image":"images/populate/17-horace-harrison.jpg",
+                                            "employee_zip":98005,
+                                            "employee_city":"Bellevue", 
+                                            "employee_country":"US",
+                                            "employee_state":"WA",
+                                            "stars":4,                  
+                                            "location":"47.62007,-122.17309",
+                                            "skills" : [
+                                                "Local Moving",
+                                                "Long Distance Moving",
+                                                "Pool Table Moving",
+                                                "Piano Moving",    
+                                                "Hauling"
+                                            ],
+                                            "portfolio" :
+                                            {
+                                                            "introduction": "Sober and neat movers will perform the move. Bring the piano to the top floor without damaging it. Our prices are affordable and competitive. ",
+                                                            "imageA":"images/populate/local-moving.jpg",   
+                                                            "imageB":"images/populate/long-distance-moving.jpg",
+                                                            "imageC":"images/populate/pool-table-moving.jpg",
+                                                            "imageD":"images/populate/piano-moving.jpg",
+                                                            "imageE":"images/populate/hauling.jpg"
                                             }
                                         }
                         }
